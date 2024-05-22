@@ -31,6 +31,7 @@ function MyForm(){
       </div>
       <div class="form-example">
         <MyButton/>
+        <MyButton/>
       </div>
     </form>
   );
