@@ -38,11 +38,7 @@ function MyForm(){
 function MyButton(){
 
   return(
-    /*
-    <button>
-      I'm a button
-    </button>
-    */
+ 
       <input type="submit" value="Subscribe!" />
   );
 }
